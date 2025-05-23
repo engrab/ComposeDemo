@@ -11,7 +11,7 @@ This is the main page of a chat application built using **Jetpack Compose** in *
 
 ## Screenshot
 
-![Chat App UI](chatapp.png)
+![Chat App UI](images/chatapp.png)
 
 ## How to Run
 
